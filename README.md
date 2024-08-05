@@ -7,7 +7,7 @@
 <div style="display: flex; margin-top: 20px; margin-bottom: 30px;" align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/64px-Typescript_logo_2020.svg.png" alt="TypeScript" style="width: 40px; height: 40px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/64px-Node.js_logo.svg.png" alt="JavaScript" style="width: 40px; height: 40px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/128px-Go_Logo_Blue.svg.png" alt="Go" style="width: 40px; height: 40px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/128px-Go_Logo_Blue.svg.png" alt="Go" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="React" style="width: 40px; height: 40px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" style="width: 40px; height: 40px;" />
 </div>
