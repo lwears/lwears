@@ -39,7 +39,7 @@
 
 ## 📫 Contact Me:
 - Email: `liamwears@fastmail.com`
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/liam-wears/)
+- LinkedIn: [Liam Wears](https://www.linkedin.com/in/liam-wears/)
 
 ## ⚡ I’m currently working on:
 - [ReelScore](https://github.com/lwears/ReelScore): A simple movie / TV serie app for watchlists and scoring.
