@@ -43,5 +43,5 @@
 
 ## ⚡ I’m currently working on:
 - [ReelScore](https://github.com/lwears/ReelScore): A simple movie / TV serie app for watchlists and scoring.
-- [Project 2](https://github.com/lwears/word-synonyms): This application allows you to manage words and their synonyms through a simple API. It includes a backend written in Go and a frontend built with TypeScript and React.
+- [word-synonyms](https://github.com/lwears/word-synonyms): This application allows you to manage words and their synonyms through a simple API. It includes a backend written in Go and a frontend built with TypeScript and React.
 
