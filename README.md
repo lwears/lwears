@@ -1,5 +1,7 @@
 # Liam Wears 👋
 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=lwears.lwears)
+
 ## 💪 Skills & Expertise:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lwears&langs_count=6&hide=html,jupyter-notebook,css&hide_progress=true&theme=transparent&hide_border=true" />
