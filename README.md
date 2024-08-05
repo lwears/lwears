@@ -8,8 +8,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/64px-Typescript_logo_2020.svg.png" alt="TypeScript" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/64px-Node.js_logo.svg.png" alt="JavaScript" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/128px-Go_Logo_Blue.svg.png" alt="Go" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="React" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/React.svg" alt="React" style="widht: 50px; height: 50px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" style="widht: 50px; height: 40px;" />
 </div>
 
 ## 🔭 About Me:
